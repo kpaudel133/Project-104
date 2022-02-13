@@ -1,0 +1,19 @@
+body{
+    background-color: lightskyblue;
+}
+
+.header{
+    font-size: 30px;
+}
+
+.family{
+    background-color: rgb(240, 128, 216);
+}
+
+.capture{
+    background-color: lightseagreen;
+}
+
+.identify{
+    background-color: mediumturquoise
+}
